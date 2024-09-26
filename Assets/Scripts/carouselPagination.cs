@@ -88,7 +88,7 @@ public class carouselPagination : MonoBehaviour
         fullScreenImage.sprite = imageSprite; // Set the sprite of the full-screen image.
         fullScreenImageContainer.SetActive(true); // Show the full-screen container.
 
-        animator.Play("ImageZoomIn");
+        //animator.Play("ImageZoomIn");
     }
 
     // Function to hide the full-screen image.
